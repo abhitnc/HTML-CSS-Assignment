@@ -1,0 +1,16 @@
+logo		https://www.talismatic.com/images/mdmj.png
+jobs icon	<i class="fa fa-briefcase"></i>
+graduation cap	<i class="fa fa-graduation-cap"></i>
+user-circle	<i class="fa fa-user-circle"></i>
+dash board	fa-dashboard
+clock		fa-clock-o
+files		fa-file-text
+tie		fa-black-tie
+flag		<i class="fa fa-flag-checkered"></i>
+fontawsome	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+down		fa fa-caret-down
+close		<i class="fa fa-close"></i>
+toggle-on	<i class="fa fa-toggle-on"></i>
+checked-s	<i class="fa fa-check-square-o"></i>
+square		<i class="fa fa-square-o"></i>
+search		<i class="fa fa-search"></i>
