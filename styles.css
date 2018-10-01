@@ -6,3 +6,20 @@
 {
     border-style: groove;
 }
+header {
+    padding: 20px;
+}
+body {
+    margin: 0;
+  }
+  .container li {
+    float: left;
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.container {
+    overflow: hidden;
+    
+}
